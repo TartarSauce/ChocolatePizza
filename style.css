@@ -1,6 +1,111 @@
+<<<<<<< HEAD
+header {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.line {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-image: url('images/lines.jpg');
+  opacity: 0.6;
+  width: 70%;
+  height: 5px;
+}
+
 body {
-  width:70%;
-  margin:0 auto;
+  margin: 0 auto;
+  width: 70%;
+
+}
+
+.all-things {
+  display: inline-flex;
+
+}
+
+.image-logo {
+  margin-top: 28px;
+
+}
+
+h3 {
+  margin-bottom: -10px;
+}
+
+#tagline {
+
+}
+
+.all-images {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+.social-images {
+  display: inline-block;
+  margin-right: 7px;
+
+
+}
+
+
+.rss-mail{
+  display: inline-block;
+  margin-left: 7px;
+
+
+}
+
+
+section{
+
+}
+
+
+.recipe-title {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.posted-on {
+  color: grey;
+  font-size: 9px;
+}
+
+.print-icon {
+  color: grey;
+  font-size: 9px;
+}
+
+.choco-pizza{
+
+}
+
+
+.directions{
+
+}
+
+
+
+
+.slogan {
+  font-family: times;
+  font-size: 9px;
+  color: grey;
+  vertical-align: text-top;
+}
+
+
+.all-images div img {
+  margin-left: -4px;
+
+
 }
 
 .recipe {
@@ -72,4 +177,5 @@ input[type="checkbox"]:checked + label  {
   opacity: 0.6;
   width:70%;
   height:5px;
+
 }
